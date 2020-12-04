@@ -1,1 +1,1 @@
-# 22.-Entrada_de_datos_python
+Este programa solicita al usuario la entrada de datos.
